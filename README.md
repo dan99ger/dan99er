@@ -29,7 +29,7 @@
 | **Frameworks & Web** | FastAPI, Streamlit, .NET (C#), Flutter |
 | **Database Management** | SQL Server, PostgreSQL, MySQL, Oracle Database XE |
 | **Methodologies & Tools** | Agile/Scrum, Git/GitHub, Docker Desktop, Adobe Suite (After Effects, Photoshop, Illustrator) |
-| **Languages** | Arabic (Native), English (Advanced) |
+| **Languages** | Arabic (Native), English (Advanced), Chinese (Good)|
 
 ---
 
